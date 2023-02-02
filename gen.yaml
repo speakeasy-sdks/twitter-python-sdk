@@ -1,5 +1,9 @@
+management:
+    openapi-checksum: 7602c4d4347b4f7c6292ab85df375482
+    openapi-version: "2.61"
+    speakeasy-version: 0.22.0
 python:
-    version: 1.0.0
+    version: 1.1.0
     packagename: twitterv2api
     author: twitterv2api
 sdkclassname: TwitterV2API
