@@ -12,7 +12,7 @@ jobs:
       speakeasy_version: latest
       openapi_doc_location: ./openapi.json
       languages: |-
-        - go
+        - python: ./
       mode: pr
     secrets:
       github_access_token: ${{ secrets.GITHUB_TOKEN }}
