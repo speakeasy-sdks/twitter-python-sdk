@@ -1,0 +1,5 @@
+python:
+    version: 1.0.0
+    packagename: twitterv2api
+    author: twitterv2api
+sdkclassname: TwitterV2API
